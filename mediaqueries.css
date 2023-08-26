@@ -15,8 +15,8 @@
     #hamburger-nav {
       display: flex;
     }
-    #experience,
-    .experience-details-container {
+    #skills,
+    .skills-details-container {
       margin-top: 2rem;
     }
     #profile,
@@ -33,7 +33,7 @@
     section {
       margin: 0 5%;
     }
-    .section__pic-container {
+    .section-pic-container {
       width: 275px;
       height: 275px;
       margin: 0 auto 2rem;
@@ -71,7 +71,7 @@
     .nav-links li a {
       font-size: 1rem;
     }
-    .experience-sub-title {
+    .skills-sub-title {
       font-size: 1.25rem;
     }
     .logo {
@@ -82,12 +82,12 @@
       gap: 0.5rem;
       text-align: center;
     }
-    .section__pic-container {
+    .section-pic-container {
       width: auto;
       height: 46vw;
       justify-content: center;
     }
-    .section__text__p2 {
+    .section-text-p2 {
       font-size: 1.25rem;
     }
     .title {
